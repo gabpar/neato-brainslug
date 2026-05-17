@@ -11,7 +11,7 @@ Modify your YAML substitutions to match the new hardware pins:
 substitutions:
   uart_tx: 21
   uart_rx: 20
-
+```
 ### Wiring Diagram
 Here is how the wires map out visually to the Super Mini:
 
