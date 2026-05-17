@@ -19,7 +19,7 @@ Here is how the wires map out visually to the Super Mini:
 | :--- | :--- |
 | Pin 1 (RX) | **GPIO 21 (TX)** |
 | Pin 2 (5V) | **3.3V / VCC** |
-| Pin 3 (RX) | **GPIO 20 (RX)** |
+| Pin 3 (TX) | **GPIO 20 (RX)** |
 | Pin 4 (GND) | **GND** |
 
 Here also a different method and positioning of the ESP32_C3 Super Mini.
