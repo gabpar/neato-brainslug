@@ -4,7 +4,7 @@ I use an **ESP32-C3 Super Mini** on my Neato Botvac D5 and the default hardware 
 First I've connected pins 7 and 6 but even if ESP32 was connecting to the wifi and I could see the robot's web control page, no commands were given to the robot and no status was read from the robot.
 To fix this, I've re routed the serial connections to the native hardware UART matrix on pins 20 and 21.
 Instead of pin 7 I've used pin 21 and instead of pin 6 I've used pin 20.
-In the screenshot below you can see right after the name of the robot's name the uptime and the ports used for TX and RX.
+In the screenshot below you can see, under the robot's name, the uptime and the ports used for TX and RX.
 <img width="2231" height="336" alt="WebGUI_Showing_Ports_20_21" src="https://github.com/user-attachments/assets/da71703f-daeb-495a-bbd7-ec20156f6de6" />
 
 
