@@ -24,7 +24,7 @@ Here is how the wires map out visually to the Super Mini:
 
 Here i present  a different positioning of the ESP32_C3 Super Mini.
 
-The ESP32-C3 Super Mini is placed in the hole from the bin handle, in a 2x8 socket, making it easy removable without having to dismantle the robot. You can even flash it on the location with a (soft) usb c cable without having to remove it since the uart ports of the robot are connected to pins 20 and 21 and not to 6 and 7 that are used to flash the ESP32.
+The ESP32-C3 Super Mini is placed in the hole from the bin handle, in a 2x8 socket, making it easy removable without having to dismantle the robot. You can even flash it on the location with a (soft) usb c cable without having to remove it since the uart ports of the robot are connected to pins 20 and 21 and not to 6 and 7 that are used to flash the ESP32. Also the placing of the ESP in the bin handle hole keeps it out from the LIDAR'w way so will not interfere with the robot's mapping and navigation.
 <img width="2252" height="4000" alt="Final_Look" src="https://github.com/user-attachments/assets/cb387c78-5196-44e9-9f9d-c6346190ab5b" />
 To realize this I used a 2x8 sockets (in the image is a 2x6 sockets)
 <img width="4000" height="2252" alt="Socket" src="https://github.com/user-attachments/assets/26eeb68e-6ab7-4ead-b722-e45d0a41bfe1" />
